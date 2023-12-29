@@ -1,5 +1,8 @@
 # Shared TodoList with Stytch Auth
 
+<img src="todolist.png">
+<img src="tests.png">
+
 ## Summary
 
 This is a simple shared todo list app that uses Stytch for authentication. It is based on the [Stytch Next.js Page Router example application](https://github.com/stytchauth/stytch-nextjs-example).
