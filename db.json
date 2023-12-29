@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "user_id": "user-test-e9936685-7f18-4ec7-848a-1297c4e40d81",
+      "email": "kevinold+stytchUserA@gmail.com",
+      "group": "GROUP_1"
+    },
+    {
+      "user_id": "user-test-e6f10710-befb-4505-9630-d31e8cef6b18",
+      "email": "kevinold+stytchUserB@gmail.com",
+      "group": "GROUP_1"
+    },
+    {
+      "user_id": "user-test-248d0690-9431-4733-a202-29f96baf715b",
+      "email": "kevinold+stytchUserC@gmail.com",
+      "group": "GROUP_2"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "task": "Finish remodeling the kitchen",
+      "status": "In progress",
+      "createdBy": "kevinold+stytchUserC@gmail.com",
+      "dueDate": "January 20, 2024",
+      "dueDateTime": "2024-01-20T00:00Z",
+      "group": "GROUP_2"
+    },
+    {
+      "id": 2,
+      "task": "Get lettuce from the store",
+      "status": "In progress",
+      "createdBy": "kevinold+stytchUserA@gmail.com",
+      "dueDate": "January 2, 2024",
+      "dueDateTime": "2024-01-02T00:00Z",
+      "group": "GROUP_1"
+    },
+    {
+      "id": 3,
+      "task": "Mail package to Bob",
+      "status": "In progress",
+      "createdBy": "kevinold+stytchUserB@gmail.com",
+      "dueDate": "January 4, 2024",
+      "dueDateTime": "2024-01-04T00:00Z",
+      "group": "GROUP_1"
+    }
+  ]
+}

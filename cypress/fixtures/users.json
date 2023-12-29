@@ -1,0 +1,29 @@
+[
+    {
+        "email": "kevinold+stytchUserA@gmail.com",
+        "name": {
+            "first_name": "Test",
+            "middle_name": "User",
+            "last_name": "A"
+        },
+        "group": "GROUP_1"
+    },
+    {
+        "email": "kevinold+stytchUserB@gmail.com",
+        "name": {
+            "first_name": "Test",
+            "middle_name": "User",
+            "last_name": "B"
+        },
+        "group": "GROUP_1"
+    },
+    {
+        "email": "kevinold+stytchUserC@gmail.com",
+        "name": {
+            "first_name": "Test",
+            "middle_name": "User",
+            "last_name": "C"
+        },
+        "group": "GROUP_2"
+    }
+]
