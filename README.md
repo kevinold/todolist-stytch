@@ -1,6 +1,7 @@
 # Shared TodoList with Stytch Auth
 
 <img src="todolist.png">
+<br />
 <img src="tests.png">
 
 ## Summary
